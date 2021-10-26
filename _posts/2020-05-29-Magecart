@@ -1,6 +1,0 @@
----
-layout: post
-title: Magecart: Exploitation, Detection, and Mitigation
----
-
-This report explores how to exploit, detect, and mitigate a Magecart attack on Magento 1.9.1.0 CE/ 1.14.1.0 EE.
