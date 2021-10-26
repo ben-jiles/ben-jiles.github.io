@@ -1,7 +1,5 @@
 ---
-published: false
----
----
+published: true
 layout: post
 title: Query VirusTotal with Excel
 ---
