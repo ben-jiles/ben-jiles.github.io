@@ -1,6 +1,11 @@
 ---
 published: false
 ---
+---
+layout: post
+title: Query VirusTotal with Excel
+---
+
 ## Problem
 
 You have monotonous tasks at work that require a lot clicking, copying, and pasting content with a browser. Surely there is a better way to do this. But if you're at a large, security-mided organization, then most likely you will not have permissions to run your \[insert favorite scripting language here\] in the environment. So what now?
