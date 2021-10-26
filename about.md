@@ -20,4 +20,4 @@ But most importantly, I'm a husband, father, son, brother, and Christian member 
 
 Session ID: 05a39d6fd0dc306f7145337e22444eeb89fc7a098f7ae73245f1671929797bd96e
 
-You can go here to check out E2E Session messenger (without needing a phone number for signup *\*cough cough*\* *Signal* *\*cough cough*\*): https://getsession.org/
+You can go here to check out E2E Session messenger (without needing a phone number for signup *\*cough cough*\* *Signal* *\*cough cough*\*): [https://getsession.org/]
